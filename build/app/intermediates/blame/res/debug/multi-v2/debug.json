@@ -1,19 +1,11 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\flutter\\bmi_calculator_flutter\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "/Users/mehmetsukrukavak/Desktop/flutter/bmi_calculator_flutter/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\flutter\\bmi_calculator_flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "/Users/mehmetsukrukavak/Desktop/flutter/bmi_calculator_flutter/android/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
